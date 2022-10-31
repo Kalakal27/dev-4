@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.bottom{
+    background-color: rgb(115, 212, 25);
+    min-height: 50px;
+    align-content: stretch;
+}
+
+    .B{ 
+        float: left;
+        text-align: center;
+        padding: 9px 7px; 
+        font-size: 15px;
+        
+     } 

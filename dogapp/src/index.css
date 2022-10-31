@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333;
+
+    
+}
+
+.Homepage{
+    background-color: #9f8170;
+    height: 450px;
+    border-radius: 0;
+}
+
+.About{
+    background-color: #9f8170;
+    height: 450px;
+    border-radius: 0;
+}
+
+.image{
+    background-color: #9f8170;
+    height: 450px;
+    border-radius: 0;
+}
+
+.Nav {
+    padding: 20px;
+    display:flex;
+    align-items: center;
+    max-width: 7700px;
+    margin: 0px auto;
+    border-bottom: 1px solid #f2f2f2;
+    background-color: #b86d29;
+    
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+    margin: 40px;
+    line-height: normal;
+    text-align: justify;
+    white-space: 10px;
+    
+}
+
+h1{
+    text-align: center;
+    font-style: bold;
+}
+
+h2{
+    text-align: center;
+    font-style: bold;
+}
+
+.Nav .links{
+   margin-left: auto;
+   
+}
+
+.Nav a {
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+}
+
+.Nav a:hover{
+    color: yellow;
+}
+
+.content{
+    max-width: 600px;
+    /* margin: 40px auto; */
+    padding: 20px;
+}
+
+.form {
+    display: grid;
+    grid-template: 40px 40px / 1fr 1fr;
+    gap: 20px;
+    
+}
+
+.btn {
+    margin-left: auto;
+    /* margin-top: auto; */
+    width: auto;
+    border-radius: 5px;
+    background-color: peru;
+    border-color: burlywood;
+    
+    
+}
+
+.btn:hover{
+    color: yellow;
+    transition: 0.7s;
+}
+
+.Affenpinscher{
+    height: 150px;
+    width: 150px;
+    padding: 30px;
+}
+
+.AfghanHound{
+    height: 150px;
+    width: 150px;
+    padding: 30px;
+}
+
+.huntingdog{
+    height: 150px;
+    width: 150px;
+    padding: 30px;
+}
+
+.terrier{
+    height: 150px;
+    width: 150px;
+    padding: 30px;
+}
+
+.akbash{
+    height: 150px;
+    width: 150px;
+    padding: 30px;
+}
+
+.akita{
+    height: 150px;
+    width: 150px;
+    padding: 30px;
+}
+
+.bulldog{
+    height: 150px;
+    width: 150px;
+    padding: 30px;
+}
+
+.husky{
+    height: 150px;
+    width: 150px;
+    padding: 30px;
+}
+
+.malamute{
+    height: 150px;
+    width: 150px;
+    padding: 30px;
+}
+
+.americanbulldog{
+    height: 150px;
+    width: 150px;
+    padding: 30px;
+}
+
+/* .affen{
+    margin-left: 25px;
+}
+
+.afghan{
+    margin-left: ;
+} */
+

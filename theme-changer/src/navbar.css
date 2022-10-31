@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.title{
+    background-color: rgb(115, 212, 25);
+    min-height: 50px;
+    align-content: stretch;
+    }
+    
+    a{ 
+       float: left;
+       text-align: center;
+       padding: 9px 7px; 
+       font-size: 15px;
+       
+    } 
+    
+    .theme{
+        font-weight: bolder;
+        font-size: 20px;
+        padding: 10px
+        
+    }

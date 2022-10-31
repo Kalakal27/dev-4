@@ -1,0 +1,24 @@
+:root{
+  --background: #ffffff;
+  --text-primary: #000;
+  --text-secondary: #8e05c2;
+  --accent: #8e05c2;
+  --border:#333;
+  --form-bg: #fff;
+}
+
+[data-theme='dark']{
+  --background: #000;
+  --text-primary: #fff;
+  --text-secondary: #8e05c2;
+  --accent: #8e05c2;
+  --border:#808080;
+  --form-bg: #191919;
+}
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
